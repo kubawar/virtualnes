@@ -1,0 +1,13 @@
+Timer init: 2.21362e+006 (2213623) ticks per second
+nester - NES emulator by Darren Ranalli, (c) 2000
+Creating NES CPU...Done.
+Creating NES PPU...Done.
+Creating NES APU...Done.
+Loading ROM...Done
+168.nes: #169 V 1024K/0K 
+Starting emulation...
+Directsound initialized, 44100 Hz
+0 FPS (0%)
+0 FPS (0%)
+Freeing ROM...Done
+
